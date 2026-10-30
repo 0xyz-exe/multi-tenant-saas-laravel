@@ -72,12 +72,3 @@ npm audit --omit=dev
 ## 5. License
 
 MIT License. Developed as part of the Laravel Projects Factory.
-
-
-## Screenshots
-
-### Dashboard Overview
-![Dashboard](docs/screenshots/01_dashboard.png)
-
-### Login Overview
-![Login](docs/screenshots/02_login.png)
