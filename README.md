@@ -7,6 +7,17 @@ Production-grade multi-tenant SaaS foundation built with Laravel 11/13, Blade, T
 
 ---
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Dashboard Workspace Multi-Tenant**<br>Ringkasan kuota langganan Pro, metrik proyek aktif, anggota tim, form buat organisasi, dan riwayat audit | ![Dashboard Workspace Multi-Tenant](docs/screenshots/01-dashboard-overview.png) |
+| **Katalog & Direktori Proyek Tenant**<br>Daftar proyek komputasi cloud terisolasi per tenant dengan form pembuatan proyek baru dan aksi pengelolaan | ![Katalog & Direktori Proyek Tenant](docs/screenshots/02-tenant-projects.png) |
+| **Manajemen Anggota & Role Akses**<br>Pengelolaan hierarki hak akses (Owner, Admin, Member) dan form undangan anggota baru ke workspace | ![Manajemen Anggota & Role Akses](docs/screenshots/03-workspace-members.png) |
+| **Paket Langganan & Batasan Entitlement**<br>Pilihan paket Free, Pro, Enterprise, alokasi kapasitas penyimpanan terenkripsi, serta kontrol suspensi workspace | ![Paket Langganan & Batasan Entitlement](docs/screenshots/04-subscription-plans.png) |
+
+---
+
 ## 1. Project Overview
 
 The **Multi-Tenant SaaS Platform** provides robust data isolation and multi-organization architecture:
